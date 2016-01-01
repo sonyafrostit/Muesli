@@ -1,0 +1,31 @@
+{
+  "name": "muesli",
+  "version": "0.0.1",
+  "description": "Muesli is an application that will allow you to convert last.fm tags into Spotify playlists.",
+  "main": "muesli.js",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmsmith/Muesli.git"
+  },
+  "keywords": [
+    "music",
+    "playlist",
+    "last.fm",
+    "spotify",
+    "tags"
+  ],
+  "author": "Bradford Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmsmith/Muesli/issues"
+  },
+  "homepage": "https://github.com/bmsmith/Muesli#readme"
+}
